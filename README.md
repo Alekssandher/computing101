@@ -1,2 +1,2 @@
-# Computing101 repository Lessons
-Resolutions of the pwn computing101 course challenges
+# PWN College Challenges Repository
+Resolutions of the pwn college courses challenges
